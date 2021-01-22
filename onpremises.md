@@ -26,7 +26,7 @@ dl{
 </style>
 
 <p>
-Onpremises handling was originally not a responsibility in my job description. As <a href="/devOps">devOps came to be</a>, I had to take the responsibility due to internal reasons. 
+Onpremises handling was originally not a responsibility in my job description. As with <a href="/devOps">devOps</a>, I have expanded my responsibilities to this area. 
 </p>
 <h3><b>My Responsibilities</b></h3>
 <ul>

@@ -26,13 +26,13 @@ ul{
 }
 </style>
 <p>
-I started out as a Software Engineer with a focus on the Backend with no discussions of taking responsibilities in the devOps environment. However, as it became necessary in the process, I have taken a rather crucial role in it over time. 
+I started out as a Software Engineer with a focus on the Backend but ended up expanding my responsibilities in the devOps environment. 
 </p>
 
 <h3><b>My Responsibilities</b></h3>
 <ul>
     <li>Responded to all server incidents, analyzing the issue and resolving it with the team</li>
-    <li>Handled and resolved major incidents that were near critical</li>
+    <li>Analyzed major incidents with the use of all data at hand and successfully resolved near-critical crashes</li>
     <li>Took responsibility of server deployments and releases</li>
     <li>Monitored and ensured functionality of different instances</li>
     <li>Supported front-office in backoffice tasks via JMX, metabase, and server log analysis</li>

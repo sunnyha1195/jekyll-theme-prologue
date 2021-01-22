@@ -30,7 +30,7 @@ h3{
 <h4>oAuth 2.0</h4>
 <ul>
     <li>Researched on the oAuth 2.0 framework, Java oAuth 2.0 libraries, and important security risks in bare-minimum oAuth 2.0 server-level implementations</li>
-    <li>Wrote the requirements for the implementation</li>
+    <li>Wrote the non-functional and security requirements for the implementation based on the research</li>
     <li>Worked on the implementation, utilizing Postman to ensure that the oAuth 2.0 flow works as intended and that correct resources are provided from the server for the requests</li>
     <li>Created the b2b documentation for the clients to successfully set up the oAuth authentication process with the server</li>
 </ul>
@@ -41,7 +41,6 @@ h3{
 </ul>
 <h3><b>My Takeaways</b></h3>
 <ul>
-    <li>Security is a major topic but one that could be a big mess with so many standards</li>
     <li>There are far more server-sided security concerns than client-sided. The worst a client can do is to have an improperly functioning setup, but the worst a server can do is breach sensitive data</li>
     <li>There are myriads of use cases that APIs could be used for but expanding on the API requires great care and management</li>
 </ul>
