@@ -17,6 +17,12 @@ dl{
     margin-bottom:0em;
     color:black;
 }
+h3{
+    margin-top:0.2em;
+}
+ul{
+    margin-bottom:0.5em;
+}
 </style>
 
 <p style="text-indent: 0em">

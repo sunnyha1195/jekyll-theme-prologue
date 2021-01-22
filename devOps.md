@@ -10,9 +10,6 @@ p{
     text-indent: 2em;
     margin-bottom: 0.5em; 
 }
-ul{
-    margin-bottom:0;
-}
 li{
     color:black;
     margin-bottom:0em;
@@ -20,6 +17,12 @@ li{
 dl{
     margin-bottom:0em;
     color:black;
+}
+h3{
+    margin-top:0.2em;
+}
+ul{
+    margin-bottom:0.5em;
 }
 </style>
 <p>

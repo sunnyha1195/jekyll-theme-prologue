@@ -11,7 +11,7 @@ p{
     margin-bottom: 0.5em; 
 }
 ul{
-    margin-bottom:0;
+    margin-bottom:5px;
 }
 li{
     color:black;
@@ -20,6 +20,9 @@ li{
 dl{
     margin-bottom:0em;
     color:black;
+}
+h3{
+    margin-top:0.2em;
 }
 </style>
 
