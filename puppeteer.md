@@ -23,14 +23,14 @@ dl{
 </style>
 
 <p>
-Puppeteer is a headless browser library in NodeJS that has myriads of usecases in automating processes for both the average users and businesses. In my case, I have used Puppeteer as an automated image and pdf export tool.
+Puppeteer is a headless browser library in NodeJS that has myriads of use cases in automating processes for both the average users and businesses. In my case, I have used Puppeteer as an automated image and pdf export tool.
 </p>
 
 <h3><b>My Responsibilities</b></h3>
 <ul>
     <li>Created puppeteer component that would screenshot and output a file of a given url</li>
     <li>Created Java render implementation that would execute the puppeteer component via commandline and retrieves the data to provide to the user</li>
-    <li>Collaborated with frontend to ensure that the puppeteer component's request to access a certain server page that should be rendered is properly handled</li> 
+    <li>Collaborated with a frontend to ensure that the puppeteer component's request to access a certain server page that should be rendered is properly handled</li> 
 </ul>
 <h3><b>My Takeaways</b></h3>
 <ul>

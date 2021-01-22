@@ -23,7 +23,7 @@ dl{
 }
 </style>
 <p>
-I started out as Software Engineer with focus on the Backend with no discussions of taking responsibilities in the devOps environment. However, as it became necessary in the process, I have taken a rather crucial role in it over time. 
+I started out as a Software Engineer with a focus on the Backend with no discussions of taking responsibilities in the devOps environment. However, as it became necessary in the process, I have taken a rather crucial role in it over time. 
 </p>
 
 <h3><b>My Responsibilities</b></h3>
@@ -39,7 +39,7 @@ I started out as Software Engineer with focus on the Backend with no discussions
     <li>In many backend development cases, having knowledge of the devOps environment is extremely helpful to understand and better implement the required component</li>
     <li>There is no harm in double and triple checking configurations before releases</li>
     <li>Most often when something does not work, it will lead to an incident. Sadly, it may be that you only figure out why after it has all happened</li>
-    <li>I have an eye for analyzing situations and grasping context</li>
+    <li>I have an eye for analyzing situations and grasping the context</li>
 </ul>
 
 <footer>List of tools used: Java, Spring, Puppet, YAML, XML, PSQL, JMX, linux commands, rundeck, nginx</footer>

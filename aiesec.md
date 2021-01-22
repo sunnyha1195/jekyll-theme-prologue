@@ -32,8 +32,8 @@ AIESEC is a student organization that I have taken a big part in during my unive
 </ul>
 <h3><b>My Takeaways</b></h3>
 <ul>
-    <li>A team effort outweighs individual effort</li>
-    <li>Culture is a critical part to any organization's success and mentality in facing challenges</li>
+    <li>A team effort outweighs the individual effort</li>
+    <li>Culture is a critical part of any organization's success and mentality in facing challenges</li>
     <li>Trust makes people responsible, not the other way around</li>
     <li>Overseeing many different components of an organization is complex and difficult but it is what I do enjoy</li>
 </ul>
