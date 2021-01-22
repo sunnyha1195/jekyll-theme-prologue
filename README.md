@@ -1,8 +1,3 @@
-basic readme 
+Here you can see my commits and thus the work process on creating the website in the last few days.
 
-TODO: add content
-
-
-
-
-forked from https://github.com/chrisbobbe/jekyll-theme-prologue
+The template is based on a free template forked from https://github.com/chrisbobbe/jekyll-theme-prologue
